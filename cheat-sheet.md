@@ -1,6 +1,6 @@
 # Cheat sheet en checklists
 
-Naam student: NAAM
+Naam student: RIYANTO CHOVANETZ
 
 Vul dit document zelf aan met commando's die je nuttig vindt, of waarvan je merkt dat je het verschillende keren moeten opzoeken hebt. Idem voor checklists voor troubleshooting, m.a.w. procedures die je kan volgen om bepaalde problemen te identificeren en op te lossen. Voeg waar je wil secties toe om de structuur van het document overzichtelijk te houden. Werk dit bij gedurende heel het semester!
 
